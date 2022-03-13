@@ -11,7 +11,7 @@ which i think is interest
 - [StackOverflow中文版](https://www.soinside.com/)
 ## 实用
 - [Textce](https://textce.com/)
-- [在线PDF分割]（https://docsmall.com/pdf-split）
+- [在线PDF分割](https://docsmall.com/pdf-split)
 - [虫部落](https://www.chongbuluo.com/)
 - [php](https://www.php.cn/search?word=markdown)
 ## 拓展
