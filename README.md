@@ -3,6 +3,15 @@ just for trying
 i want to learn github
 which i think is interest
 # 资源连接
+## 金融期刊
+- [知网](https://www.cnki.net/)
+- [Document search](https://www.webofscience.com/wos/alldb/basic-search)
+- [JSTOR](https://www.jstor.org/?refreqid=excelsior%3A17e049eec36c5338f9109852730a1e7c)
+- [JFE](https://www.sciencedirect.com/journal/journal-of-financial-economics)
+- [经济研究](http://www.erj.cn/)
+- [管理世界](http://www.mwm.net.cn/web/)
+- [唧唧堂](http://www.jijitang.com/)
+- [X-MOL](https://www.x-mol.com/)
 ## 程序
 - [AKshare](https://www.akshare.xyz/#)
 - [fiction](https://finthon.com/)
