@@ -32,6 +32,8 @@ which i think is interest
 - [性情科普](https://www.zhangzs.com/?s=%E6%80%A7%E6%83%85%E7%A7%91%E6%99%AE)
 - [BigThink](https://bigthink.com/)
 - [TED-Ed](https://ed.ted.com/)
+## 白嫖
+- [追剧](https://www.zhuijugou.com/)
 ## Game
 - [DBD](https://deadbydaylight.com/en)
 - [FREE blood](https://progameguides.com/dead-by-daylight/dead-by-daylight-codes/)
