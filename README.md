@@ -35,6 +35,8 @@ which i think is interest
 - [TED-Ed](https://ed.ted.com/)
 ## 白嫖
 - [追剧](https://www.zhuijugou.com/)
+- [磁力熊](https://www.cilixiong.com/)
+- [种子直链](https://webtor.io/#/)
 ## Game
 - [DBD](https://deadbydaylight.com/en)
 - [FREE blood](https://progameguides.com/dead-by-daylight/dead-by-daylight-codes/)
